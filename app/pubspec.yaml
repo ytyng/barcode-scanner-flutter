@@ -31,6 +31,13 @@ dependencies:
 
   flutter_barcode_scanner: ^2.0.0
 
+  # https://stackoverflow.com/questions/60530795/sunmi-v2-with-flutter
+  # https://pub.dev/packages/sunmi
+  # sunmi: ^0.0.1+1
+
+  # https://pub.dev/packages/flutter_sunmi_printer
+  flutter_sunmi_printer: ^0.2.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
